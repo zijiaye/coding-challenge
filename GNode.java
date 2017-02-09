@@ -1,6 +1,6 @@
 public interface GNode {
-    public String getName();
+    String getName();
 
-    public GNode[] getChildren();
+    GNode[] getChildren();
 
 }
